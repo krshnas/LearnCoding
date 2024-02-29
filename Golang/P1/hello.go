@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Learning World")
+	// github commit from vscode
+	fmt.Println("Github Learning")
 }
