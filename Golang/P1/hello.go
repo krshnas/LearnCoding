@@ -1,8 +1,7 @@
-package main
+package hello
 
 import "fmt"
 
-func main() {
-	// github commit from vscode
-	fmt.Println("Github Learning")
+func Hello() {
+	fmt.Println("Hello World!")
 }
