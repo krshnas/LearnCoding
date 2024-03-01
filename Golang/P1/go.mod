@@ -1,4 +1,3 @@
-module greet
+module LearnCoding/Golang/P1
 
 go 1.22.0
-require github.com/krshnas/P1/hello v0.1.0
